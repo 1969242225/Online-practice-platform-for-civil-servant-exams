@@ -15,11 +15,11 @@
 
 1）第一阶段，开发基础的刷题平台，实战 Next.js 服务端渲染 + Spring Boot 应用的快速开发。
 
-![](https://pic.yupi.icu/1285/202409291632262.PNG)
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E9%A2%98%E5%BA%93%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2.png?raw=true)
 
 2）第二阶段，对项目功能进行扩展，实战如 Redis 缓存和高级数据结构、Elasticsearch 搜索引擎、Druid 连接池、并发编程、热 key 探测的应用。
 
-![](https://pic.yupi.icu/1285/202409291631905.PNG)
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95%E9%A1%B5%E9%9D%A2.png?raw=true)
 
 3）第三阶段，对项目安全性进行优化，比如基于 Sentinel 进行网站流量控制和熔断、基于 Nacos 实现动态的 IP 黑白名单、基于 Sa-Token 实现同端登录冲突检测、基于 Redis 实现分级反爬虫策略等。最终将项目上线并保证可用性。
 
@@ -33,19 +33,38 @@
 
 题目搜索页面：
 
-![](https://pic.yupi.icu/1285/202409291632524.png)
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E9%A2%98%E7%9B%AE%E6%90%9C%E7%B4%A2%E9%A1%B5%E9%9D%A2.png?raw=true)
 
 题库详情页面：
 
-![](https://pic.yupi.icu/1285/202409291633147.png)
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E9%A2%98%E5%BA%93%E8%AF%A6%E6%83%85%E9%A1%B5%E9%9D%A2.png?raw=true)
 
 题目管理页面，涉及批量操作和动态弹窗的开发：
 
-![](https://pic.yupi.icu/1285/202409291634296.png)
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E9%A2%98%E7%9B%AE%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2.png?raw=true)
 
 本项目架构设计图：
 
-![](https://pic.yupi.icu/1285/202409291634789.png)
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%9B%BE.png?raw=true)
+
+主要业务E-R图：
+
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E4%B8%BB%E8%A6%81%E4%B8%9A%E5%8A%A1E-R%E5%9B%BE.png?raw=true)
+
+各用例图：
+
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7%E7%94%A8%E4%BE%8B%E5%9B%BE.png?raw=true)
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E7%AE%A1%E7%90%86%E5%91%98%E7%94%A8%E4%BE%8B%E5%9B%BE.png?raw=true)
+
+各功能结构图：
+
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E9%A2%98%E7%9B%AE%E6%A8%A1%E5%9D%97%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E9%A2%98%E5%BA%93%E6%A8%A1%E5%9D%97%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
+
+各时序图：
+
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E7%AE%A1%E7%90%86%E5%91%98%E6%93%8D%E4%BD%9C%E9%A2%98%E7%9B%AE%E6%97%B6%E5%BA%8F%E5%9B%BE.png?raw=true)
+![](https://github.com/1969242225/Online-practice-platform-for-civil-servant-exams/blob/main/images/%E7%AE%A1%E7%90%86%E5%91%98%E6%93%8D%E4%BD%9C%E9%A2%98%E5%BA%93%E6%97%B6%E5%BA%8F%E5%9B%BE.png?raw=true)
 
 ## 技术选型
 
